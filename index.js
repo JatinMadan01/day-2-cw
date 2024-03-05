@@ -1,6 +1,6 @@
 let App = () => {
     let h1 = {
-        fontSize : "5rem"
+        fontSize : "4rem"
     }
     let secondp = {
         fontSize : "2rem"
